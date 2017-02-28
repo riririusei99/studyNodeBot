@@ -1,0 +1,23 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riririusei99/studyNodeBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riririusei99/studyNodeBot/issues"
+  },
+  "homepage": "https://github.com/riririusei99/studyNodeBot#readme"
+}
